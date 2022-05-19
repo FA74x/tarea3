@@ -1,0 +1,53 @@
+1>Se insertó (20,20.00) en el abb.
+2>Se insertó (40,40.00) en el abb.
+3>Se insertó (30,30.00) en el abb.
+4>Se insertó (10,10.00) en el abb.
+5>Se insertó (15,15.00) en el abb.
+6>Se insertó (5,15.00) en el abb.
+7>El abb NO es perfecto.
+8>Se insertó (50,50.00) en el abb.
+9>El abb es perfecto.
+10>Se removió 40 del abb.
+11>Se removió 20 del abb.
+12>La raíz del abb es: (15,15.00)
+13>La raíz del hijo izquierdo del abb es: (10,10.00)
+14>La raíz del hijo derecho del abb es: (30,30.00)
+15>El menor en el abb es: (5,15.00)
+16>El mayor en el abb es: (50,50.00)
+17>(10,10.00)
+18>(5,15.00)(10,10.00)(15,15.00)(30,30.00)(50,50.00)
+19>
+--(50,50.00)
+-(30,30.00)
+(15,15.00)
+-(10,10.00)
+--(5,15.00)
+20>
+--(50,50.00)
+-(30,30.00)
+(15,15.00)
+-(10,10.00)
+--(5,15.00)
+21>
+(25,25.00)
+-(10,10.00)
+--(5,15.00)
+22>
+(15,15.00)
+-(10,10.00)
+--(5,15.00)
+23>10 15 
+La posición actual NO está definida.
+24>5 10 
+La posición actual NO está definida.
+25>Insertando mas.
+26>Insertando otras.
+27>Insertando palas.
+28>Insertando palabra.
+29>
+30>
+mas
+otras
+palabra
+palas
+31>Fin.

@@ -1,0 +1,128 @@
+1>Estructuras reiniciadas.
+2>La cantidad es 0.
+3>5 no está en la cadena.
+4>
+5>Se insertó (5,5.00) al inicio de la cadena.
+6>El primero es (5,5.00)
+7>Se removió la primera aparición de 5 de la cadena.
+8>Se insertó (3,3.00) al inicio de la cadena.
+9>Se insertó (2,2.00) al inicio de la cadena.
+10>Se insertó (6,6.00) al inicio de la cadena.
+11>Se insertó (5,5.00) al inicio de la cadena.
+12>Se insertó (8,6.00) al inicio de la cadena.
+13>Se removió la primera aparición de 6 de la cadena.
+14>Se removió la primera aparición de 3 de la cadena.
+15>Se removió la primera aparición de 8 de la cadena.
+16>La cantidad es 2.
+17>5 está en la cadena.
+18>El elemento es (5,5.00)
+19>(5,5.00)(2,2.00)
+20>Actual de it NO está definida.
+21>Agregando 5 a it.
+22>Reiniciando it.
+23>El actual de it es 5.
+24>Avanzando en it.
+25>Agregando 6 a it.
+26>Agregando 7 a it.
+27>Agregando 8 a it.
+28>Agregando 9 a it.
+29>Agregando 10 a it.
+30>Reiniciando it.
+31>El actual de it es 5.
+32>Avanzando en it.
+33>El actual de it es 6.
+34>
+35>
+36>El abb es vacío.
+37>El abb es perfecto.
+38>10 no está en el abb.
+39>
+40>Se insertó (5,5.00) en el abb.
+41>El abb es perfecto.
+42>
+(5,5.00)
+43>El menor en el abb es: (5,5.00)
+44>El mayor en el abb es: (5,5.00)
+45>La raíz del abb es: (5,5.00)
+46>El abb no tiene hijo izquierdo.
+47>El abb no tiene hijo derecho.
+48>Se insertó (3,3.00) en el abb.
+49>Se insertó (1,1.00) en el abb.
+50>
+(5,5.00)
+-(3,3.00)
+--(1,1.00)
+51>(1,1.00)(3,3.00)(5,5.00)
+52>Se insertó (9,8.00) en el abb.
+53>Se insertó (8,9.00) en el abb.
+54>El abb NO es perfecto.
+55>8 9 5 
+La posición actual NO está definida.
+56>8 
+La posición actual NO está definida.
+57>
+58>
+-(9,8.00)
+--(8,9.00)
+(5,5.00)
+-(3,3.00)
+--(1,1.00)
+59>El menor en el abb es: (1,1.00)
+60>El mayor en el abb es: (9,8.00)
+61>
+(6,6.00)
+62>
+(6,6.00)
+-(3,3.00)
+--(1,1.00)
+63>
+-(9,8.00)
+--(8,9.00)
+(6,6.00)
+64>Se removió 9 del abb.
+65>Se removió 5 del abb.
+66>Insertando m.
+67>
+m
+68>
+palabras no contiene p.
+69>Insertando p.
+70>Insertando pa.
+71>Insertando pal.
+72>Insertando pala.
+73>Insertando pla.
+74>
+m
+p
+pa
+pal
+pla
+75>
+pa
+pal
+pala
+76>
+palabras no contiene pr.
+77>Estructuras reiniciadas.
+78>La cantidad es 0.
+79>5 no está en la cadena.
+80>
+81>Se insertó (5,5.00) al inicio de la cadena.
+82>El primero es (5,5.00)
+83>Se removió la primera aparición de 5 de la cadena.
+84>Actual de it NO está definida.
+85>Agregando 5 a it.
+86>Reiniciando it.
+87>El actual de it es 5.
+88>Avanzando en it.
+89>
+90>Se insertó (5,5.00) en el abb.
+91>
+(5,5.00)
+92>(5,5.00)
+93>Insertando m.
+94>
+m
+95>
+palabras no contiene p.
+96>Fin.

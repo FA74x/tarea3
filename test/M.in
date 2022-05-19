@@ -1,0 +1,96 @@
+reiniciarEstructuras
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+insertarAlInicio 5 5.0
+primeroEnCadena
+removerDeCadena 5
+insertarAlInicio 3 3.0
+insertarAlInicio 2 2.0
+insertarAlInicio 6 6.0
+insertarAlInicio 5 5.0
+insertarAlInicio 8 6.0
+removerDeCadena 6
+removerDeCadena 3
+removerDeCadena 8
+cantidadEnCadena
+estaEnCadena 5
+infoCadena 5
+imprimirCadena
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+actualEnIterador
+avanzarIterador
+agregarAIterador 6
+agregarAIterador 7
+agregarAIterador 8
+agregarAIterador 9
+agregarAIterador 10
+reiniciarIterador
+actualEnIterador
+avanzarIterador
+actualEnIterador
+imprimirAbb
+linealizacion
+esVacioAbb
+esPerfecto
+buscarSubarbol 10
+copiaAbb
+insertarEnAbb (5, 5.0)
+esPerfecto
+copiaAbb
+menorEnAbb
+mayorEnAbb
+raiz
+izquierdo
+derecho
+insertarEnAbb (3, 3.0)
+insertarEnAbb (1, 1.0)
+imprimirAbb
+linealizacion
+insertarEnAbb (9, 8.0)
+insertarEnAbb (8, 9.0)
+esPerfecto
+caminoAscendente 8 4
+caminoAscendente 8 1
+menores 1
+menores 10
+menorEnAbb
+mayorEnAbb
+consAbb (6, 6.0) 2 20
+consAbb (6, 6.0) 3 20
+consAbb (6, 6.0) 2 9
+removerDeAbb 9
+removerDeAbb 5
+insertarPalabra m
+imprimirPalabrasCortas 1
+buscarFinPrefijo p
+insertarPalabra p
+insertarPalabra pa
+insertarPalabra pal
+insertarPalabra pala
+insertarPalabra pla
+imprimirPalabrasCortas 3
+buscarFinPrefijo pa
+buscarFinPrefijo pr
+reiniciarEstructuras
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+insertarAlInicio 5 5.0
+primeroEnCadena
+removerDeCadena 5
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+actualEnIterador
+avanzarIterador
+copiaAbb
+insertarEnAbb (5, 5.0)
+imprimirAbb
+linealizacion
+insertarPalabra m
+imprimirPalabrasCortas 1
+buscarFinPrefijo p
+Fin

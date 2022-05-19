@@ -1,0 +1,30 @@
+insertarEnAbb (20, 20.0)
+insertarEnAbb (40, 40.0)
+insertarEnAbb (30, 30.0)
+insertarEnAbb (10, 10.0)
+raiz
+izquierdo
+derecho
+menorEnAbb
+mayorEnAbb
+buscarSubarbol 40
+buscarSubarbol 10
+linealizacion
+esVacioAbb
+imprimirAbb
+copiaAbb
+consAbb (25, 25.0) 10 30
+esPerfecto
+menores 20
+menores 40
+caminoAscendente 30 1
+removerDeAbb 20
+raiz
+izquierdo
+derecho
+caminoAscendente 30 2
+insertarPalabra otras
+insertarPalabra palas
+insertarPalabra palabra
+imprimirPalabrasCortas 6
+Fin
